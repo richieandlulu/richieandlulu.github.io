@@ -76,7 +76,7 @@ img {
     background-position: -9999px -9999px;
     background-repeat: no-repeat;
 }
-@media screen only and (max-width:1100px) {
+@media screen only and (max-width:1100px) and (orientation:portrait) {
 body {
 	background: #6D6C6D url("images/bg-illustration_03.png") no-repeat fixed top;		
 	background-size:700px;	
