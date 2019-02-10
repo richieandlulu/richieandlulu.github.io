@@ -4,6 +4,8 @@ body {
 	background-size:cover;
 	font-family: 'Vollkorn', serif;
 	color:#FFF;
+	text-align:center;
+	margin:auto;
 	overflow:scroll;
 
 }
