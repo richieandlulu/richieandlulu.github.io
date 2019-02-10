@@ -1,0 +1,284 @@
+
+body {
+	background: #231F20 url(images/savethedate_illustration@4600_60_01.jpg) no-repeat;
+	background-size:cover;
+	font-family: 'Vollkorn', serif;
+	color:#FFF;
+	text-align:center;
+	margin:auto;
+}
+h1 {
+	font-size:16px;
+	font-weight:400;	
+	padding-bottom:50px;
+	padding-top:20px;
+	margin:auto;
+}
+#date-wrap {
+	display:flex;
+	flex-direction:column;
+	max-width:40%;
+}
+
+#hero {
+	margin:auto;
+}
+#calendar {
+	position:absolute;
+	bottom:0px;
+	padding-bottom:20px;
+	margin:auto;
+	left:40%;
+	right:40%;
+}
+#typography {
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	width:60%;	
+	margin:auto;	
+}
+#one {
+	align-self:flex-start;
+	margin:0px auto auto 25px;
+}
+
+
+#two {
+	align-self:flex-end;
+	margin:0px 0px auto auto;
+
+}
+/*
+	top:100;
+	left:100;
+	position:absolute;
+	*/
+.addeventatc {
+	margin-top:190px;
+    display: inline-block;
+    position: relative;
+    z-index: 99998;
+    color: #231F20!important;
+    font-weight: 400;
+    line-height: 100%;
+    background: #FFFFFF;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    padding: 12px 22px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased!important;
+    outline-color: rgba(0,78,255,0.5);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    box-shadow: 0 0 0 0.5px rgba(50,50,93,.17), 0 2px 5px 0 rgba(50,50,93,.1), 0 1px 1.5px 0 rgba(0,0,0,.07), 0 1px 2px 0 rgba(0,0,0,.08), 0 0 0 0 transparent!important;
+    background-image: url(https://www.addevent.com/gfx/icon-calendar-t5.png), url(https://www.addevent.com/gfx/icon-calendar-t1.svg), url(https://www.addevent.com/gfx/icon-apple-t5.svg), url(https://www.addevent.com/gfx/icon-facebook-t5.svg), url(https://www.addevent.com/gfx/icon-google-t5.svg), url(https://www.addevent.com/gfx/icon-outlook-t5.svg), url(https://www.addevent.com/gfx/icon-outlookcom-t5.svg), url(https://www.addevent.com/gfx/icon-yahoo-t5.svg);
+    background-position: -9999px -9999px;
+    background-repeat: no-repeat;
+}
+@media screen and (min-width:1101px){
+body {
+	background: #231F20 url(images/savethedate_illustration@4600_60_01.jpg)no-repeat;		
+	background-size:cover;	
+
+}	
+}
+@media screen only and (max-width:1100px) and (orientation:landscape) {
+body {
+
+}	
+}
+
+@media screen and (max-width:1100px)  {
+body {
+	background: #231F20 url(images/savethedate_illustration@4600_60_01.jpg)no-repeat;		
+	background-size:contain;
+	max-width:100vh;
+
+}
+#typography {
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	width:90%;	
+	margin:auto;	
+}	
+#one {
+	margin:0px auto auto 0px;
+}
+#two {
+	margin: auto 0px 0px auto;	
+}
+	
+}
+}
+/*
+@media screen and (max-width:1100px){
+body {
+	background-size:cover;	
+}
+#typography {
+	width:70%;	
+}
+#one {
+	margin:0px auto auto 25px;
+}
+#two {
+	margin:0px 0px auto auto;
+
+}
+}
+*/
+@media screen and (max-width:800px){
+body {
+	background: #231F20 url("images/std_background_02.png") no-repeat fixed center;	
+	background-size:90%;	
+	max-width:100vw;
+}
+#typography {
+	width:70%;	
+	margin-top:55px;
+}
+}
+@media screen and (max-width:600px){
+body {
+	background: #231F20	url("images/std_background_02.png") no-repeat fixed top;	
+	background-size:contain;	
+	max-width:100vw;
+}
+h1 {
+	font-size:15px;
+}
+
+#one {
+	margin:0px auto auto 0px;
+}
+#two {
+	margin:0px 0px auto auto;
+}
+.addeventatc {
+	margin-top:260px;
+}
+}
+@media screen and (max-width:500px){
+body {
+	background: #231F20 url("images/std_background_02.png") no-repeat fixed top;	
+	background-size: 500px 367.18px;	
+	max-width:100vw;
+}
+h1 {
+	font-size:12px;
+	padding-bottom:30px;
+	padding-top:30px;	
+}
+#typography {
+	width:90%;	
+	margin-top:10px;	
+}
+#calendar {
+	position:absolute;
+	bottom:0px;
+	padding-bottom:20px;
+	margin:auto;
+	left:20%;
+	right:20%;
+}
+.addeventatc {	
+    font-size: 12px;
+    padding: 10px 18px;
+}
+}
+
+/*@media screen and (max-width:400px){
+	body {
+	background: #231F20 url("images/bg-illustration_03.png") no-repeat fixed center;	
+	background-size:900px;	
+	max-width:100vh;
+}
+#typography {
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	width:90%;	
+	margin:auto;	
+}	
+#one {
+	margin:0px auto;
+}
+#two {
+	margin: auto auto 0px auto;
+}
+}*/
+/*index_02
+.addeventatc {
+    display: inline-block;
+    position: relative;
+    z-index: 99998;
+    font-family: "Open Sans",Roboto,"Helvetica Neue",Helvetica,Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif;
+    color: #000!important;
+    font-weight: 600;
+    line-height: 100%;
+    background: #fff;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1px solid transparent;
+    padding: 13px 12px 12px 43px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased!important;
+    outline-color: rgba(0,78,255,0.5);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    box-shadow: 0 0 0 0.5px rgba(50,50,93,.17), 0 2px 5px 0 rgba(50,50,93,.1), 0 1px 1.5px 0 rgba(0,0,0,.07), 0 1px 2px 0 rgba(0,0,0,.08), 0 0 0 0 transparent!important;
+    background-image: url(https://www.addevent.com/gfx/icon-calendar-t5.png), url(https://www.addevent.com/gfx/icon-calendar-t1.svg), url(https://www.addevent.com/gfx/icon-apple-t5.svg), url(https://www.addevent.com/gfx/icon-facebook-t5.svg), url(https://www.addevent.com/gfx/icon-google-t5.svg), url(https://www.addevent.com/gfx/icon-outlook-t5.svg), url(https://www.addevent.com/gfx/icon-outlookcom-t5.svg), url(https://www.addevent.com/gfx/icon-yahoo-t5.svg);
+    background-position: -9999px -9999px;
+    background-repeat: no-repeat;
+}
+.section {
+  display: block;
+  overflow: hidden;
+  height: 100vh;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+  -ms-flex-pack: end;
+  justify-content: flex-end;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+  -ms-flex-align: end;
+  align-items: flex-end;
+  background-color: transparent;
+}
+.section.section-1 {
+  position: relative;
+  overflow: hidden;
+  height: 100vh;
+  padding-bottom: 80px;
+}
+.colour-bg {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 100vh;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: #5159a4;
+}
+*/
