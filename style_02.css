@@ -1,0 +1,21 @@
+
+body {
+	background: #231F20 url("savethedate_illustration@4600_60_01.jpg") no-repeat;
+	background-size:cover;
+	font-family: 'Vollkorn', serif;
+	color:#FFF;
+	overflow:scroll;
+
+}
+h1 {
+	font-size:16px;
+	font-weight:400;	
+	padding-bottom:50px;
+	padding-top:20px;
+	margin:auto;
+}
+.date-wrap {
+	display:flex;
+	flex-direction: row;	
+
+}
