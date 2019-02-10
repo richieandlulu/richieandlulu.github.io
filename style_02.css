@@ -93,7 +93,7 @@ h1 {
 @media screen and (max-width:500px){
 body {
 	background: #231F20 url("savethedate_illustration@4600_60_01.jpg") no-repeat fixed top;
-	background-size: 500px 367.18px;	
+	background-size:cover;	
 	max-width:100vw;
 }
 h1 {
