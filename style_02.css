@@ -1,6 +1,6 @@
 
 body {
-	background: #231F20 url("savethedate_illustration@4600_60_01.jpg") no-repeat;
+	background: #231F20 url("savethedate_illustration@4600_60_02.jpg") no-repeat;
 	background-size:cover;
 	font-family: 'Vollkorn', serif;
 	color:#FFF;
@@ -14,14 +14,9 @@ h1 {
 	font-weight:400;	
 	padding-bottom:50px;
 	padding-top:20px;
-	margin:auto;
+	margin:auto auto 0px auto;
 }
-.date-wrap {
-	display:flex;
-	flex-direction: row;	
-	margin:250px auto 300px auto;
 
-}
 .addeventatc {
 	margin-top:190px;
     display: inline-block;
