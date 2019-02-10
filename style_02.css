@@ -19,6 +19,7 @@ h1 {
 .date-wrap {
 	display:flex;
 	flex-direction: row;	
+	margin:auto;
 
 }
 .addeventatc {
