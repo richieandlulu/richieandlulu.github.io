@@ -145,8 +145,8 @@ h1,h2 {
 	font-size:20px;	
 }
 #wrap {
-	left:25%;
-	right:25%;	
+	left:15%;
+	right:15%;	
 }	
 }
 @media screen and (max-width:500px){
