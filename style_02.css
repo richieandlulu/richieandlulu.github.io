@@ -24,7 +24,10 @@ h2 {
 	left:30%;
 	right:30%;	
 }
-
+.type {
+	margin:auto;
+	max-width:50%;
+}
 .addeventatc {
 	margin:190px auto 0px auto;
     display: inline-block;
