@@ -170,6 +170,7 @@ h2 {
 	position:static;	
 	margin: 40px auto 10px;	
 	max-width:45%;
+	text-align:center;
 } 
 #calendar {
 	margin:50px 0px 0px 0px;
@@ -180,6 +181,6 @@ h2 {
 	left:25%;
 	right:25%;
 	margin:auto;
-	width:60%;
+	width:80%;
 }	
 }
