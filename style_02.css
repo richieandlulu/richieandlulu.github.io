@@ -165,7 +165,7 @@ h1,h2 {
 }
 .type {
 	position:static;	
-	margin: 120px auto auto auto;	
+	margin: auto;	
 	max-width:35%;
 	margin-bottom:50px;
 } 	
