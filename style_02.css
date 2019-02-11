@@ -66,15 +66,7 @@ body {
 
 }
 }
-
-@media screen and (max-width:1090px) {
-.type {
-	position:static;	
-	margin: 200px auto auto auto;
-	max-width:30%;
-	text-align:center;	
-}	
-}	
+	
 @media screen and (min-wdith:1080px) and (max-width:1920px)  {
 body {
 	background: #231F20 url(savethedate_illustration@1920-extended_01.jpg) no-repeat top;
@@ -90,6 +82,8 @@ body {
 body {
 	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:inherit;
+	text-align:center;	
+}	
 }
 .type {
 	position:static;	
@@ -98,7 +92,10 @@ body {
 	right:30%;
 	max-width:30%;
 	text-align:center;	
-} 	
+} 
+#calendar {
+	margin:190px auto auto auto;
+}	
 #wrap {
 	left:10%;
 	right:10%;	
