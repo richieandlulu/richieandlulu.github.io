@@ -8,7 +8,8 @@ body {
 h1, h2 {
 	font-size:18px;
 	font-weight:400;
-	font-family: 'Vollkorn', serif;	
+	font-family: 'Vollkorn', serif;
+	white-space:pre-line;
 	
 }
 h1 {
@@ -162,6 +163,7 @@ body {
 h1,h2 {	
 	margin:auto auto auto auto;
 	font-size:16px;	
+	white-space:normal;
 }
 h2 {
 	padding-bottom: 0px;
