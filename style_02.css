@@ -163,6 +163,7 @@ h1,h2 {
 	font-size:20px;	
 }
 .type {
+	margin: 120px auto auto auto;	
 	max-width:35%;
 	margin-bottom:50px;
 } 	
