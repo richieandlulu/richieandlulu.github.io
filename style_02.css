@@ -94,6 +94,8 @@ body {
 .type {
 	position:static;	
 	margin: 200px auto auto auto;
+	left:30%;
+	right:30%;
 	max-width:30%;
 	text-align:center;	
 } 	
