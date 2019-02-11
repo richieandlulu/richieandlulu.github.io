@@ -167,8 +167,10 @@ h1,h2 {
 	position:static;	
 	margin: 20px auto 10px;	
 	max-width:45%;
-	top:80px;
-} 	
+} 
+#calendar {
+	margin:80px auto 0px 40px;
+}	
 #wrap {
 	position:static;
 	bottom:0;
