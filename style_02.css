@@ -73,6 +73,7 @@ body {
 	background-size:inherit;
 	text-align:center;	
 }
+	
 #wrap {
 	left:10%;
 	right:10%;	
@@ -84,7 +85,10 @@ body {
 	background-size:inherit;
 	text-align:center;	
 }	
-
+h1,h2 {
+	margin:auto auto auto auto;
+	font-size:20px;	
+}
 .type {
 	position:static;	
 	margin: 200px auto auto auto;
