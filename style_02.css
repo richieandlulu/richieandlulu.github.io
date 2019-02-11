@@ -13,16 +13,17 @@ h1, h2 {
 h1 {
 	padding-top:50px;
 	margin:auto auto auto 0px;
+	text-align:left;	
 }
 h2 {
 	padding-bottom:30px;	
-	margin:auto auto auto 0px;	
+	margin:auto auto auto 0px;
+	text-align:left;	
 }
 #wrap {
 	position:absolute;
 	bottom:0;
-	left:0;
-	
+	left:0;	
 }
 .type {
 	margin: 200px auto auto 0px;
