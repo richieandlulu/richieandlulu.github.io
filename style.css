@@ -71,7 +71,7 @@ body {
 body {
 	background: #231F20 url(savethedate_illustration@1920-extended_01.jpg) no-repeat top;
 	background-size:inherit;
-	text-align:center;	
+	
 }
 	
 #wrap {
@@ -83,7 +83,7 @@ body {
 body {
 	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:inherit;
-	text-align:center;	
+	
 }	
 h1,h2 {
 	margin:auto 0px auto 0px;
@@ -95,7 +95,7 @@ h1,h2 {
 	left:30%;
 	right:30%;
 	max-width:40%;
-	text-align:center;	
+	
 } 
 
 /*.type {
