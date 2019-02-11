@@ -9,7 +9,7 @@ h1, h2 {
 	font-size:18px;
 	font-weight:400;
 	font-family: 'Vollkorn', serif;	
-	white-space:pre-line;
+	
 }
 h1 {
 	padding-top:50px;
@@ -21,7 +21,7 @@ h2 {
 }
 #wrap {
 	position:absolute;
-	bottom:10px;
+	bottom:0px;
 	left:30px;	
 }
 .type {
@@ -61,7 +61,7 @@ h2 {
 }
 @media screen and (min-width:1081px){
 body {
-	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat top;
+	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat top right;
 	background-size:cover;
 
 }
@@ -71,21 +71,21 @@ body {
 body {
 	background: #231F20 url(savethedate_illustration@1920-extended_01.jpg) no-repeat top;
 	background-size:inherit;
-	
+	text-align:center;	
 }
-/*	
+	
 #wrap {
 	left:10%;
 	right:10%;	
-}*/	
+}	
 }
 @media screen and (max-width:1080px)  {
 body {
 	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:inherit;
-	
+	text-align:center;	
 }	
-/*h1,h2 {
+h1,h2 {
 	margin:auto 0px auto 0px;
 	font-size:20px;	
 }
@@ -94,8 +94,16 @@ body {
 	margin: 150px auto auto auto;
 	left:30%;
 	right:30%;
-	max-width:40%;	
+	max-width:40%;
+	text-align:center;	
 } 
+
+/*.type {
+	position:absolute;
+	top:60px;
+	left:40px;
+	max-width:35%;
+	}*/
 #calendar {
 	margin:30px auto auto auto;
 }	
@@ -103,45 +111,41 @@ body {
 	position:static;	
 	left:10%;
 	right:10%;	
-}*/
+}	
 }
 
 @media screen and (max-width:800px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat center;
 	background-size:cover;
 }
-
-	/*	
 h1,h2 {
 	font-size:20px;	
 }
 #wrap {
 	left:10%;
 	right:10%;	
-}*/
+}
 	
 }
 @media screen and (max-width:700px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat center;
 	background-size:cover;
 }
-/*	
 h1,h2 {
 	font-size:20px;	
 }
 #wrap {
 	left:7%;
 	right:7%;	
-}*/
+}
 }	
 @media screen and (max-width:600px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat center;
 	background-size:cover;
-}	
-/*	
+}
 h1,h2 {
 	font-size:20px;	
 }
@@ -149,7 +153,6 @@ h1,h2 {
 	left:25%;
 	right:25%;	
 }	
-*/	
 }
 @media screen and (max-width:500px){
 body {
@@ -159,27 +162,14 @@ body {
 h1,h2 {	
 	margin:auto auto auto auto;
 	font-size:16px;	
-	white-space:normal;
 }
 h2 {
 	padding-bottom: 0px;
 }
-#wrap {
-	width:70%;
-}
 .type {
+	position:static;	
 	margin: 40px auto 10px;	
 	max-width:45%;
-} 
-#calendar {
-	margin:50px 0px 0px 0px;
-}	
-/*.type {
-	position:static;
-	left:20px;
-	margin: 40px auto 10px;	
-	max-width:45%;
-	text-align:center;
 } 
 #calendar {
 	margin:50px 0px 0px 0px;
@@ -187,8 +177,9 @@ h2 {
 #wrap {
 	position:static;
 	bottom:0;
-	left:20px;
+	left:25%;
+	right:25%;
 	margin:auto;
-	width:70%;
-}*/	
+	width:60%;
+}	
 }
