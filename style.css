@@ -61,7 +61,7 @@ h2 {
 }
 @media screen and (min-width:1081px){
 body {
-	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat top right;
+	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat top;
 	background-size:cover;
 
 }
