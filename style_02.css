@@ -90,16 +90,16 @@ body {
 	margin: 200px auto auto auto;
 	left:30%;
 	right:30%;
-	max-width:30%;
+	max-width:35%;
 	text-align:center;	
 } 
-	/*
-.type {
+
+/*.type {
 	position:absolute;
 	top:60px;
 	left:40px;
 	max-width:35%;
-}*/
+	}*/
 #calendar {
 	margin:190px auto auto auto;
 }	
@@ -155,8 +155,12 @@ body {
 	background-size:initial;
 }
 h1,h2 {
+	margin:auto auto auto auto;
 	font-size:20px;	
 }
+.type {
+	max-width:45%;	
+} 	
 #wrap {
 	position:absolute;
 	bottom:0;
