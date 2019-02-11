@@ -21,13 +21,13 @@ h2 {
 }
 #wrap {
 	position:absolute;
-	bottom:0;
-	left:20;	
+	bottom:0px;
+	left:20px;	
 }
 .type {
 	position:absolute;
-	top:20;
-	left:20;
+	top:20px;
+	left:20px;
 	max-width:30%;
 }
 #calendar {
