@@ -9,16 +9,15 @@ h1, h2 {
 	font-size:18px;
 	font-weight:400;
 	font-family: 'Vollkorn', serif;	
+	text-align:left;	
 }
 h1 {
 	padding-top:50px;
-	margin:auto auto auto 0px;
-	text-align:left;	
+	margin:auto auto auto 0px;	
 }
 h2 {
 	padding-bottom:30px;	
-	margin:auto auto auto 0px;
-	text-align:left;	
+	margin:auto auto auto 0px;	
 }
 #wrap {
 	position:absolute;
@@ -30,30 +29,30 @@ h2 {
 	max-width:30%;
 }
 .addeventatc {
-	margin:190px auto 0px auto;
-    display: inline-block;
-    position: relative;
-    z-index: 99998;
-    color: #231F20!important;
-    font-weight: 400;
-    line-height: 100%;
-    background: #FFFFFF;
-    font-size: 15px;
-    text-decoration: none;
-    border: 1px solid transparent;
-    padding: 12px 22px;
-    -webkit-border-radius: 3px;
-    border-radius: 3px;
-    cursor: pointer;
-    -webkit-font-smoothing: antialiased!important;
-    outline-color: rgba(0,78,255,0.5);
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
-    -webkit-user-select: none;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
-    box-shadow: 0 0 0 0.5px rgba(50,50,93,.17), 0 2px 5px 0 rgba(50,50,93,.1), 0 1px 1.5px 0 rgba(0,0,0,.07), 0 1px 2px 0 rgba(0,0,0,.08), 0 0 0 0 transparent!important;
-    background-image: url(https://www.addevent.com/gfx/icon-calendar-t5.png), url(https://www.addevent.com/gfx/icon-calendar-t1.svg), url(https://www.addevent.com/gfx/icon-apple-t5.svg), url(https://www.addevent.com/gfx/icon-facebook-t5.svg), url(https://www.addevent.com/gfx/icon-google-t5.svg), url(https://www.addevent.com/gfx/icon-outlook-t5.svg), url(https://www.addevent.com/gfx/icon-outlookcom-t5.svg), url(https://www.addevent.com/gfx/icon-yahoo-t5.svg);
-    background-position: -9999px -9999px;
-    background-repeat: no-repeat;
+	margin:190px auto 0px 0px;
+	    display: inline-block;
+	    position: relative;
+	    z-index: 99998;
+	    color: #231F20!important;
+	    font-weight: 400;
+	    line-height: 100%;
+	    background: #FFFFFF;
+	    font-size: 15px;
+	    text-decoration: none;
+	    border: 1px solid transparent;
+	    padding: 12px 22px;
+	    -webkit-border-radius: 3px;
+	    border-radius: 3px;
+	    cursor: pointer;
+	    -webkit-font-smoothing: antialiased!important;
+	    outline-color: rgba(0,78,255,0.5);
+	    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+	    -webkit-user-select: none;
+	    -webkit-tap-highlight-color: rgba(0,0,0,0);
+	    box-shadow: 0 0 0 0.5px rgba(50,50,93,.17), 0 2px 5px 0 rgba(50,50,93,.1), 0 1px 1.5px 0 rgba(0,0,0,.07), 0 1px 2px 0 rgba(0,0,0,.08), 0 0 0 0 transparent!important;
+	    background-image: url(https://www.addevent.com/gfx/icon-calendar-t5.png), url(https://www.addevent.com/gfx/icon-calendar-t1.svg), url(https://www.addevent.com/gfx/icon-apple-t5.svg), url(https://www.addevent.com/gfx/icon-facebook-t5.svg), url(https://www.addevent.com/gfx/icon-google-t5.svg), url(https://www.addevent.com/gfx/icon-outlook-t5.svg), url(https://www.addevent.com/gfx/icon-outlookcom-t5.svg), url(https://www.addevent.com/gfx/icon-yahoo-t5.svg);
+	    background-position: -9999px -9999px;
+	    background-repeat: no-repeat;
 }
 @media screen and (min-width:1081px){
 body {
