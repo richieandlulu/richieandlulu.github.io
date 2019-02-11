@@ -25,7 +25,9 @@ h2 {
 	left:0;	
 }
 .type {
-	margin: 0x auto auto 0px;
+	position:absolute;
+	top:0;
+	left:0;
 	max-width:30%;
 }
 .addeventatc {
@@ -60,6 +62,14 @@ body {
 	background-size:cover;
 }
 }
+
+@media screen and (max-width:1920px) {
+.type {
+	position:static;	
+	margin: 200px auto auto auto;
+	max-width:30%;
+}	
+}	
 @media screen and (min-wdith:1080px) and (max-width:1920px)  {
 body {
 	background: #231F20 url(savethedate_illustration@1920-extended_01.jpg) no-repeat top;
@@ -68,10 +78,6 @@ body {
 #wrap {
 	left:10%;
 	right:10%;	
-}
-.type {
-	margin: 200px auto auto auto;
-	max-width:30%;
 }	
 }
 @media screen and (max-width:1080px)  {
@@ -82,10 +88,6 @@ body {
 #wrap {
 	left:10%;
 	right:10%;	
-}
-.type {
-	margin: 200px auto auto auto;
-	max-width:30%;
 }	
 }
 
@@ -101,10 +103,7 @@ h1,h2 {
 	left:15%;
 	right:15%;	
 }
-.type {
-	margin: 200px auto auto auto;
-	max-width:30%;
-}	
+	
 }
 @media screen and (max-width:700px){
 body {
@@ -118,10 +117,6 @@ h1,h2 {
 	left:10%;
 	right:10%;	
 }
-.type {
-	margin: 200px auto auto auto;
-	max-width:30%;
-}
 }	
 @media screen and (max-width:600px){
 body {
@@ -134,10 +129,6 @@ h1,h2 {
 #wrap {
 	left:25%;
 	right:25%;	
-}
-.type {
-	margin: 200px auto auto auto;
-	max-width:30%;
 }	
 }
 @media screen and (max-width:500px){
@@ -153,9 +144,5 @@ h1,h2 {
 	bottom:0;
 	left:15%;
 	right:15%;	
-}
-.type {
-	margin: 200px auto auto auto;
-	max-width:30%;
 }	
 }
