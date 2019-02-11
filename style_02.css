@@ -177,7 +177,8 @@ h2 {
 #wrap {
 	position:static;
 	bottom:0;
+	left:25%;
+	right:25%;
 
-	width:70%;
 }	
 }
