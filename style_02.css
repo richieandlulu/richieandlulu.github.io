@@ -3,13 +3,13 @@ body {
 	background-size:cover;
 	font-family: 'Vollkorn', serif;
 	color:#FFF;
-	text-align:center;
+	text-align:left;
 }
 h1, h2 {
 	font-size:18px;
 	font-weight:400;
 	font-family: 'Vollkorn', serif;	
-	text-align:left;	
+	
 }
 h1 {
 	padding-top:50px;
@@ -63,6 +63,7 @@ h2 {
 body {
 	background: #231F20 url(savethedate_illustration@desktop_50_01.jpg) no-repeat top;
 	background-size:cover;
+
 }
 }
 
@@ -71,12 +72,14 @@ body {
 	position:static;	
 	margin: 200px auto auto auto;
 	max-width:30%;
+	text-align:center;	
 }	
 }	
 @media screen and (min-wdith:1080px) and (max-width:1920px)  {
 body {
 	background: #231F20 url(savethedate_illustration@1920-extended_01.jpg) no-repeat top;
 	background-size:inherit;
+	text-align:center;	
 }
 #wrap {
 	left:10%;
