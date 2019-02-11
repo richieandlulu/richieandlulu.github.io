@@ -84,7 +84,7 @@ body {
 	background-size:inherit;
 	text-align:center;	
 }	
-}
+
 .type {
 	position:static;	
 	margin: 200px auto auto auto;
@@ -93,6 +93,12 @@ body {
 	max-width:30%;
 	text-align:center;	
 } 
+.type {
+	position:absolute;
+	top:60px;
+	left:40px;
+	max-width:35%;
+}
 #calendar {
 	margin:190px auto auto auto;
 }	
