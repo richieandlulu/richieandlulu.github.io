@@ -13,25 +13,28 @@ h1, h2 {
 }
 h1 {
 	padding-top:50px;
-	margin:auto auto auto 0px;	
+	margin:auto auto auto 20px;	
 }
 h2 {
 	padding-bottom:30px;	
-	margin:auto auto auto 0px;	
+	margin:auto auto auto 20px;	
 }
 #wrap {
 	position:absolute;
 	bottom:0;
-	left:0;	
+	left:20;	
 }
 .type {
 	position:absolute;
-	top:0;
-	left:0;
+	top:20;
+	left:20;
 	max-width:30%;
 }
+#calendar {
+	margin:190px auto 0px 20px;
+}	
 .addeventatc {
-	margin:190px auto 0px 0px;
+
 	    display: inline-block;
 	    position: relative;
 	    z-index: 99998;
