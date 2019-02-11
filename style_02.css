@@ -163,6 +163,9 @@ h1,h2 {
 	margin:auto auto auto auto;
 	font-size:20px;	
 }
+h2 {
+	padding-bottom: 0px;
+}
 .type {
 	position:static;	
 	margin: 40px auto 10px;	
