@@ -108,6 +108,7 @@ h1,h2 {
 	margin:190px auto auto auto;
 }	
 #wrap {
+	position:static;	
 	left:10%;
 	right:10%;	
 }	
@@ -158,8 +159,7 @@ body {
 	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:cover;
 }
-h1,h2 {
-	position:static;	
+h1,h2 {	
 	margin:auto auto auto auto;
 	font-size:20px;	
 }
