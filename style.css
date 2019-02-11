@@ -162,6 +162,10 @@ h1,h2 {
 h2 {
 	padding-bottom: 0px;
 }
+#wrap {
+	position:static;
+	width:70%;
+}
 /*.type {
 	position:static;
 	left:20px;
