@@ -12,20 +12,20 @@ h1, h2 {
 }
 h1 {
 	padding-top:50px;
-	margin:auto;
+	margin:auto auto auto 0px;
 }
 h2 {
 	padding-bottom:30px;	
-	margin:auto;	
+	margin:auto auto auto 0px;	
 }
 #wrap {
 	position:absolute;
 	bottom:0;
-	left:30%;
-	right:30%;	
+	left:0;
+	
 }
 .type {
-	margin: 200px auto auto auto;
+	margin: 200px auto auto 0px;
 	max-width:30%;
 }
 .addeventatc {
