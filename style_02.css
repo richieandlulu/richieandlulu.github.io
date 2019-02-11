@@ -13,25 +13,25 @@ h1, h2 {
 }
 h1 {
 	padding-top:50px;
-	margin:auto auto auto 40px;	
+	margin:auto auto auto 30px;	
 }
 h2 {
 	padding-bottom:40px;	
-	margin:auto auto auto 40px;	
+	margin:auto auto auto 30px;	
 }
 #wrap {
 	position:absolute;
 	bottom:0px;
-	left:40px;	
+	left:30px;	
 }
 .type {
 	position:absolute;
 	top:60px;
-	left:40px;
+	left:30px;
 	max-width:35%;
 }
 #calendar {
-	margin:190px auto 0px 40px;
+	margin:190px auto 0px 30px;
 }	
 .addeventatc {
 
