@@ -1,5 +1,5 @@
 body {
-	background: #231F20 url(savethedate_illustration@desktop_50_01.jpg) no-repeat bottom;
+	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat bottom;
 	background-size:cover;
 	font-family: 'Vollkorn', serif;
 	color:#FFF;
@@ -61,7 +61,7 @@ h2 {
 }
 @media screen and (min-width:1081px){
 body {
-	background: #231F20 url(savethedate_illustration@desktop_50_01.jpg) no-repeat top right;
+	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat top right;
 	background-size:cover;
 
 }
