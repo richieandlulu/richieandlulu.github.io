@@ -108,13 +108,11 @@ body {
 
 @media screen and (max-width:800px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat center;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:cover;
 }
-h1 {
-	white-space:normal;
-}	
-/*	
+
+	/*	
 h1,h2 {
 	font-size:20px;	
 }
@@ -129,9 +127,6 @@ body {
 	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:cover;
 }
-h1 {
-	white-space:normal;
-}
 /*	
 h1,h2 {
 	font-size:20px;	
@@ -143,11 +138,8 @@ h1,h2 {
 }	
 @media screen and (max-width:600px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat center;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
 	background-size:cover;
-}
-h1 {
-	white-space:normal;
 }	
 /*	
 h1,h2 {
