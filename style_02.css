@@ -149,8 +149,8 @@ h1,h2 {
 	font-size:20px;	
 }
 #wrap {
-	left:5%;
-	right:5%;	
+	left:25%;
+	right:25%;	
 }	
 }
 @media screen and (max-width:500px){
@@ -163,12 +163,13 @@ h1,h2 {
 	font-size:20px;	
 }
 .type {
-	max-width:45%;	
+	max-width:35%;
+	margin-bottom:50px;
 } 	
 #wrap {
 	position:absolute;
 	bottom:0;
-	left:5%;
-	right:5%;	
+	left:15%;
+	right:15%;	
 }	
 }
