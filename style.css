@@ -9,7 +9,7 @@ h1, h2 {
 	font-size:18px;
 	font-weight:400;
 	font-family: 'Vollkorn', serif;	
-	
+	white-space:pre-line;
 }
 h1 {
 	padding-top:50px;
