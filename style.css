@@ -169,10 +169,14 @@ h2 {
 	padding-bottom: 0px;
 }
 .type {
+	display:none;	
+}
+/*	
+.type {
 	position:static;	
 	margin: 40px auto 10px;	
 	max-width:45%;
-} 
+} */
 #calendar {
 	margin:50px 0px 0px 0px;
 }	
@@ -183,5 +187,18 @@ h2 {
 	right:25%;
 	margin:auto;
 	width:75%;
+}	
+}
+
+@media screen and (max-width:400px){
+body {
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
+	background-size:cover;
+}
+h1,h2 {	
+	white-space:normal;
+}
+#wrap {
+	width:60%;
 }	
 }
