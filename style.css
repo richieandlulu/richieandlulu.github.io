@@ -19,6 +19,7 @@ h1, h2 {
 }
 .save {	
 	font-size:12px;	
+	line-height:20px;
 	font-family: 'Carrois Gothic SC', sans-serif;	
 	padding-top:50px;
 	margin:auto auto 18px 30px;
