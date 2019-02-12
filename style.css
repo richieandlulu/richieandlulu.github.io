@@ -191,8 +191,6 @@ h2 {
 #wrap {
 	position:absolute;
 	bottom:20px;
-	left:25%;
-	right:25%;
 	margin:auto;
 	width:75%;
 }	
@@ -215,6 +213,6 @@ h1,h2 {
 	left:25%;
 	right:25%;
 	margin:auto;		
-	width:60%;
+	width:70%;
 }	
 }
