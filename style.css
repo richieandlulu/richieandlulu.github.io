@@ -20,6 +20,8 @@ h1, h2 {
 .save {
 	font-weight:700;	
 	padding-top:50px;
+	margin:auto auto auto 10px;
+	text-transform:underline;
 }
 h1 {
 	margin:auto auto auto 30px;	
