@@ -169,7 +169,7 @@ h1,h2 {
 	white-space:normal;	
 }
 #calendar {
-	margin:180px 0px 0px 0px;
+	margin:140px 0px 0px 0px;
 }
 .save {	
 	display:block;
@@ -185,7 +185,7 @@ h1,h2 {
 }	
 #wrap {
 	position:static;
-	bottom:20px;
+	bottom:80px;
 	left:0;
 	right:0;
 	margin:auto;
