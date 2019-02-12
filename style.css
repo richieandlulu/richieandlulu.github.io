@@ -20,7 +20,7 @@ h1, h2 {
 .save {	
 	font-family: 'Carrois Gothic SC', sans-serif;	
 	padding-top:50px;
-	margin:auto auto 20px 30px;
+	margin:auto auto 10px 30px;
 	text-decoration:underline;
 }
 h1 {
@@ -42,7 +42,7 @@ h2 {
 	max-width:35%;
 }
 #calendar {
-	margin:190px auto 0px 30px;
+	margin:140px auto 0px 30px;
 }	
 .addeventatc {
 
