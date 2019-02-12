@@ -18,12 +18,7 @@ h1, h2 {
 	
 }
 .save {	
-	font-size:12px;	
-	line-height:20px;
-	font-family: 'Carrois Gothic SC', sans-serif;	
-	padding-top:50px;
-	margin:auto auto 18px 30px;
-	text-transform:uppercase;
+	display:none;
 }
 h1 {
 	margin:auto auto auto 30px;	
@@ -166,6 +161,10 @@ h1,h2 {
 .save {	
 	padding-top:30px;
 	margin:auto auto  0px 0px;
+	font-size:12px;	
+	line-height:20px;
+	font-family: 'Carrois Gothic SC', sans-serif;	
+	text-transform:uppercase;
 }	
 }	
 @media screen and (max-width:600px){
