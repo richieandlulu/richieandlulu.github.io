@@ -132,6 +132,9 @@ h1,h2 {
 	left:10%;
 	right:10%;	
 }
+#calendar {
+	margin:30px auto auto auto;
+}	
 .save {	
 	margin:30px auto  0px 0px;
 }	
