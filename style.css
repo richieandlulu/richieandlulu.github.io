@@ -150,6 +150,9 @@ body {
 h1,h2 {
 	font-size:20px;	
 }
+#calendar {
+	margin:300px 0px 0px 0px;
+}	
 .type {
 	display:none;	
 }	
@@ -179,7 +182,7 @@ h2 {
 	max-width:45%;
 } */
 #calendar {
-	margin:150px 0px 0px 0px;
+	margin:300px 0px 0px 0px;
 }	
 #wrap {
 	position:static;
@@ -199,6 +202,9 @@ body {
 h1,h2 {	
 	white-space:normal;
 }
+#calendar {
+	margin:300px 0px 0px 0px;
+}	
 #wrap {
 	position:static;
 	bottom:0;	
