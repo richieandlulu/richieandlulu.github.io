@@ -146,10 +146,29 @@ body {
 }
 h1,h2 {
 	font-size:20px;	
+	white-space:normal;	
 }
+#calendar {
+	margin:140px 0px 0px 0px;
+}
+.save {	
+	display:block;
+	margin:60px auto 15px 0px;
+	font-size:16px;	
+	line-height:28px;
+	font-family: 'Carrois Gothic SC', sans-serif;	
+	text-transform:uppercase;
+}	
+.type {
+	display:none;	
+}	
 #wrap {
-	left:7%;
-	right:7%;	
+	position:static;
+	bottom:80px;
+	left:0;
+	right:0;
+	margin:auto;
+	width:75%;
 }	
 }	
 @media screen and (max-width:600px){
