@@ -108,7 +108,7 @@ h1,h2 {
 	text-align:center;	
 } 
 .save {	
-	margin:30px auto  0px 0px;
+	margin:30px auto 0px 0px;
 }
 #calendar {
 	margin:30px auto 60px auto;
@@ -133,7 +133,7 @@ h1,h2 {
 	right:10%;	
 }
 #calendar {
-	margin:30px auto auto auto;
+	margin:30px auto 60px auto;
 }	
 .save {	
 	margin:30px auto  0px 0px;
