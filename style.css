@@ -20,8 +20,8 @@ h1, h2 {
 .save {	
 	font-family: 'Carrois Gothic SC', sans-serif;	
 	padding-top:50px;
-	margin:auto auto 10px 30px;
-	text-decoration:underline;
+	margin:auto auto 15px 30px;
+	text-transform:uppercase;
 }
 h1 {
 	margin:auto auto auto 30px;	
