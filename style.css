@@ -150,6 +150,9 @@ body {
 h1,h2 {
 	font-size:20px;	
 }
+.type {
+	display:none;	
+}	
 #wrap {
 	left:25%;
 	right:25%;	
@@ -168,9 +171,7 @@ h1,h2 {
 h2 {
 	padding-bottom: 0px;
 }
-.type {
-	display:none;	
-}
+
 /*	
 .type {
 	position:static;	
