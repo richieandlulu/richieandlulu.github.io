@@ -20,7 +20,7 @@ h1, h2 {
 .save {	
 	padding-top:50px;
 	margin:auto auto auto 10px;
-	text-transform:underline;
+	text-decoration:underline;
 }
 h1 {
 	margin:auto auto auto 30px;	
