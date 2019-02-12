@@ -201,7 +201,7 @@ h2 {
 @media screen and (max-width:400px){
 body {
 	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat bottom;
-	background-size:cover;
+	background-size:100vh;
 }
 h1,h2 {	
 	white-space:normal;
