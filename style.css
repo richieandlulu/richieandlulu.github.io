@@ -21,7 +21,7 @@ h1, h2 {
 	display:none;
 }
 h1 {
-	margin:auto auto auto 30px;	
+	margin:50px auto auto 30px;	
 }
 h2 {
 	padding-bottom:40px;	
@@ -116,8 +116,7 @@ h1,h2 {
 	text-align:center;	
 } 
 .save {	
-	padding-top:30px;
-	margin:auto auto  0px 0px;
+	margin:30px auto  0px 0px;
 }
 #calendar {
 	margin:30px auto auto auto;
@@ -142,8 +141,7 @@ h1,h2 {
 	right:10%;	
 }
 .save {	
-	padding-top:30px;
-	margin:auto auto  0px 0px;
+	margin:30px auto  0px 0px;
 }	
 }
 @media screen and (max-width:700px){
@@ -173,8 +171,7 @@ h1,h2 {
 }
 .save {	
 	display:block;
-	padding-top:60px;
-	margin:auto auto 15px 0px;
+	margin:60px auto 15px 0px;
 	font-size:14px;	
 	line-height:26px;
 	font-family: 'Carrois Gothic SC', sans-serif;	
