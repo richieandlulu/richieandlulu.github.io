@@ -149,6 +149,7 @@ body {
 }
 h1,h2 {
 	font-size:20px;	
+	white-space:normal;	
 }
 #calendar {
 	margin:300px 0px 0px 0px;
@@ -157,8 +158,11 @@ h1,h2 {
 	display:none;	
 }	
 #wrap {
+	position:static;
+	bottom:0;
 	left:25%;
-	right:25%;	
+	right:25%;
+	margin:auto;;	
 }	
 }
 @media screen and (max-width:500px){
@@ -207,7 +211,10 @@ h1,h2 {
 }	
 #wrap {
 	position:static;
-	bottom:0;	
+	bottom:0;
+	left:25%;
+	right:25%;
+	margin:auto;		
 	width:60%;
 }	
 }
