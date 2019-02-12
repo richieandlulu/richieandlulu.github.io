@@ -52,7 +52,7 @@ h2 {
 	    font-weight: 400;
 	    line-height: 100%;
 	    background: #cccccc;
-	opacity:0.7;
+	opacity:0.8;
 	    font-size: 15px;
 	    text-decoration: none;
 	    border: 1px solid transparent;
@@ -73,11 +73,12 @@ h2 {
 /* Button */
 .addeventatc 							{display:inline-block;position:relative;font-family:"Open Sans",Roboto,"Helvetica Neue",Helvetica,Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif;color:#000!important;font-weight:600;line-height:100%;background:#fff;opacity:0.7;font-size:15px;text-decoration:none;border:1px solid transparent;padding:13px 12px 12px 43px;-webkit-border-radius:3px;border-radius:3px;cursor:pointer;-webkit-font-smoothing:antialiased!important;outline-color:rgba(0,78,255,0.5);text-shadow:1px 1px 1px rgba(0,0,0,0.004);-webkit-user-select:none;-webkit-tap-highlight-color:rgba(0,0,0,0);box-shadow:0 0 0 0.5px rgba(50,50,93,.17), 0 2px 5px 0 rgba(50,50,93,.1), 0 1px 1.5px 0 rgba(0,0,0,.07), 0 1px 2px 0 rgba(0,0,0,.08), 0 0 0 0 transparent!important;}
 .addeventatc:hover 						{background-color:#006666;color:#000;font-size:15px;text-decoration:none;}
-.addeventatc:active 					{border-width:2px 1px 0px 1px;}
+.addeventatc:active 					{border-width:2px 1px 0px 1px;color:#003333;}
 .addeventatc-selected 					{background-color:#f9f9f9;}
 .addeventatc .addeventatc_icon 			{width:18px;height:18px;position:absolute;z-index:1;left:12px;top:10px;background:url(../gfx/icon-calendar-t1.svg) no-repeat;background-size:18px 18px;}
 .addeventatc .start, .addeventatc .end, .addeventatc .timezone, .addeventatc .title, .addeventatc .description, .addeventatc .location, .addeventatc .organizer, .addeventatc .organizer_email, .addeventatc .facebook_event, .addeventatc .all_day_event, .addeventatc .date_format, .addeventatc .alarm_reminder, .addeventatc .recurring, .addeventatc .attendees, .addeventatc .calname, .addeventatc .uid, .addeventatc .status, .addeventatc .method, .addeventatc .client, .addeventatc .transp {display:none!important;}
 .addeventatc br 						{display:none;}
+
 @media screen and (min-width:1081px){
 body {
 	background: #231F20 url(savethedate_illustration@desktop_50_02.jpg) no-repeat top right;
