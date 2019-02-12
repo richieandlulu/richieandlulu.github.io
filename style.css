@@ -101,7 +101,7 @@ h1,h2 {
 }
 .type {
 	position:static;	
-	margin: 150px auto auto auto;
+	margin: 100px auto auto auto;
 	left:30%;
 	right:30%;
 	max-width:40%;
@@ -111,7 +111,7 @@ h1,h2 {
 	margin:30px auto  0px 0px;
 }
 #calendar {
-	margin:30px auto auto auto;
+	margin:30px auto 60px auto;
 }	
 #wrap {
 	position:static;	
