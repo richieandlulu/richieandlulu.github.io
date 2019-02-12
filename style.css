@@ -164,8 +164,8 @@ h1,h2 {
 .save {	
 	display:block;
 	margin:60px auto 15px 0px;
-	font-size:14px;	
-	line-height:26px;
+	font-size:16px;	
+	line-height:28px;
 	font-family: 'Carrois Gothic SC', sans-serif;	
 	text-transform:uppercase;
 }	
@@ -191,6 +191,10 @@ h1,h2 {
 	font-size:20px;	
 	white-space:normal;
 }
+.save {	
+	font-size:14px;	
+	line-height:26px;
+}	
 h2 {
 	padding-bottom: 0px;
 }	
