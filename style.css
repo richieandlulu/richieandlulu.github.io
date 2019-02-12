@@ -163,7 +163,7 @@ h1,h2 {
 }
 @media screen and (max-width:500px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat bottom;
 	background-size:cover;
 }
 h1,h2 {	
@@ -196,7 +196,7 @@ h2 {
 
 @media screen and (max-width:400px){
 body {
-	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat top;
+	background: #231F20 url(savethedate_illustration@1080x1920_70_portrait_01.jpg) no-repeat bottom;
 	background-size:cover;
 }
 h1,h2 {	
