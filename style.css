@@ -86,7 +86,8 @@ body {
 	
 #wrap {
 	left:10%;
-	right:10%;	
+	right:10%;
+	bottom:20px;	
 }	
 }
 @media screen and (max-width:1080px)  {
@@ -116,7 +117,8 @@ h1,h2 {
 #wrap {
 	position:static;	
 	left:10%;
-	right:10%;	
+	right:10%;
+	bottom:20px;	
 }	
 }
 
