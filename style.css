@@ -159,10 +159,11 @@ h1,h2 {
 	right:7%;	
 }
 .save {	
+	display:block;
 	padding-top:30px;
-	margin:auto auto  0px 0px;
-	font-size:12px;	
-	line-height:20px;
+	margin:auto auto 15px 0px;
+	font-size:14px;	
+	line-height:26px;
 	font-family: 'Carrois Gothic SC', sans-serif;	
 	text-transform:uppercase;
 }	
